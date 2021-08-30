@@ -89,7 +89,7 @@ ${information.description}
 - [Contribution](#contribution)
 - [Test](#test)
 - [License](#license)
-- [Contact](#contact)
+- [Questions](#questions)
 ## Installation
 ${information.installation}
 ## Usage
@@ -100,7 +100,7 @@ ${information.contribution}
 ${information.test}
 ## License
 The license is ${license} to see more information click on the badge at the top.
-## Contact
+## Question
 -Email: ${information.email}\n
 -GitHub: ${information.gitHub}`;
 
