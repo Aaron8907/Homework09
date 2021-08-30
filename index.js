@@ -43,7 +43,7 @@ inquirer
     {
         type: 'input',
         name: 'gitHub',
-        message: 'What is your GitHub username?',
+        message: 'Share the link to your github account',
     },
     {
         type: 'input',
